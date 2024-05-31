@@ -1,3 +1,4 @@
+import React from 'react'
 import { Label, MultiStepContainer, Step, Steps } from './styles'
 
 export interface MultiStepProps {

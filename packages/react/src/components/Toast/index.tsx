@@ -1,3 +1,4 @@
+import React from 'react'
 import * as ToastPrimitive from '@radix-ui/react-toast'
 import { X } from 'phosphor-react'
 import { ComponentProps } from '../../types/ComponentProps'
